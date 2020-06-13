@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-test/static/css/main.43d02339.chunk.css",
+    "main.js": "/react-portfolio-test/static/js/main.2e1f955d.chunk.js",
+    "main.js.map": "/react-portfolio-test/static/js/main.2e1f955d.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-test/static/js/runtime-main.44f56dc0.js",
+    "runtime-main.js.map": "/react-portfolio-test/static/js/runtime-main.44f56dc0.js.map",
+    "static/js/2.f98ac5ed.chunk.js": "/react-portfolio-test/static/js/2.f98ac5ed.chunk.js",
+    "static/js/2.f98ac5ed.chunk.js.map": "/react-portfolio-test/static/js/2.f98ac5ed.chunk.js.map",
+    "index.html": "/react-portfolio-test/index.html",
+    "precache-manifest.544e556d9585ca28838e9e50911bebdc.js": "/react-portfolio-test/precache-manifest.544e556d9585ca28838e9e50911bebdc.js",
+    "service-worker.js": "/react-portfolio-test/service-worker.js",
+    "static/css/main.43d02339.chunk.css.map": "/react-portfolio-test/static/css/main.43d02339.chunk.css.map",
+    "static/media/index.css": "/react-portfolio-test/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.jpg": "/react-portfolio-test/static/media/airbnbLogo.e47c3e26.jpg",
+    "static/media/contactMail.png": "/react-portfolio-test/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/react-portfolio-test/static/media/developerActivity.59389695.svg",
+    "static/media/logo.svg": "/react-portfolio-test/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/react-portfolio-test/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/react-portfolio-test/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/react-portfolio-test/static/media/talksCardBack.0288c5ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44f56dc0.js",
+    "static/js/2.f98ac5ed.chunk.js",
+    "static/css/main.43d02339.chunk.css",
+    "static/js/main.2e1f955d.chunk.js"
+  ]
+}
